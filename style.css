@@ -1,3 +1,4 @@
+
 * {
 margin: 0;
 padding: 0;
@@ -774,5 +775,4 @@ align-items: center;
 .about-grid,
 .projects-grid {
 grid-template-columns: 1fr;
-}
 }
